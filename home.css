@@ -1,0 +1,35 @@
+
+
+ input[type=text]{
+    border: none;
+    outline: none;
+   width: 150px;
+ }
+ .search{
+    margin-left: 14%;
+    margin-top:-2%;
+     border: 1px solid rgb(145, 145, 145);
+     width: 290px;
+     padding: 10px;
+     border-radius: 5px;
+ }
+
+.download{
+    margin-top: -7%;
+    margin-left: 15%;
+    padding: 13px 28px;
+    width: 330px;
+    background-color: rgb(244, 51, 151);
+    border: none;
+    border-radius: 5px;
+}
+.download h6{
+    color: white;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -24px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
